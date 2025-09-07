@@ -1,0 +1,10 @@
+FD      LH      VE      FD      BB      VE      FD      VE      FB      FB
+FB      VB      BC      FE      VD      BC      BB      VC      BD      VC
+BD      VC      FB      FD      VE      FB      LV      FB      BD      VE
+VD      BB      BE      VB      BC      BC      VC      BD      BE      FC
+FB      FC      BD      BC      VE      VB      VE      BD      BE      FB
+BD      VE      FC      FB      BD      BE      LV      FC      BD      BE
+LV      BD      BB      BE      BD      BE      FC      VB      BE      LV
+VD      VC      BD      VC      BD      BE      FB      FC      BD      BE
+FD      BB      BE      VB      BE      BD      BE      VB      BE      FC
+FD      BC      BC      BC      VC      FC      VD      VC      VD      FE
